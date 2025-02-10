@@ -5,7 +5,7 @@ Comprehensive analysis of sales and financial performance for AtliQ Hardware, a 
 
 ## Sales Analytics
 ### Project Objectives
-1. create a _[customer performance report]()_
+1. create a _[customer performance report](https://github.com/Satishkumar125/Excel_sales-Finance-Analytics/blob/main/Net%20Performace%20sales.pdf)_
 2. Market Performance vs Target Analysis
 3. Division Level Report
 4. Top/Bottom Products Analysis
