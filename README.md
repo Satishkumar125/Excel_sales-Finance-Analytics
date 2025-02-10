@@ -1,7 +1,7 @@
 # Excel_sales-Finance-AnalyticsSales Report :
 Project objective:
 
-1. Create a customer performance report
+1. Create a https://github.com/Satishkumar125/Excel_sales-Finance-Analytics/blob/main/Market%20Performance%20VS%20Target.pdf
 
 2. Conduct a comprehensive comparison between market performance and sales targets
 
