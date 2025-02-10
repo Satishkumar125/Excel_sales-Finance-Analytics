@@ -5,7 +5,7 @@ Comprehensive analysis of sales and financial performance for AtliQ Hardware, a 
 
 ## Sales Analytics
 ### Project Objectives
-1. Customer Performance Report
+1. create a _[customer performance report]()_
 2. Market Performance vs Target Analysis
 3. Division Level Report
 4. Top/Bottom Products Analysis
