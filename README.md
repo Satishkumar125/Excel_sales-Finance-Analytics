@@ -1,39 +1,72 @@
-# Excel_sales-Finance-AnalyticsSales Report :
-Project objective:
+# AtliQ Hardware Sales & Finance Analytics
 
-1. Create a https://github.com/Satishkumar125/Excel_sales-Finance-Analytics/blob/main/Market%20Performance%20VS%20Target.pdf
+## Project Overview
+Comprehensive analysis of sales and financial performance for AtliQ Hardware, a global computer hardware manufacturer, using Advanced Excel techniques and business intelligence tools.
 
-2. Conduct a 
+## Sales Analytics
+### Project Objectives
+1. Customer Performance Report
+2. Market Performance vs Target Analysis
+3. Division Level Report
+4. Top/Bottom Products Analysis
+5. New Product Launch Impact Report
 
-Purpose of sales analytics: Empower businesses to monitor, evaluate, and optimize their sales activities and performance.
+### Purpose
+- Monitor and evaluate sales activities and performance
+- Identify sales patterns and track KPIs
+- Enable data-driven decision making for sales strategies
 
-Importance of analyzing sales data: Identify sales trends and patterns.
+### Business Impact
+- Optimize customer discounts through data-driven insights
+- Facilitate evidence-based customer negotiations
+- Identify potential business expansion opportunities
+- Track market performance against targets
 
-Track key performance indicators (KPIs).
+## Finance Analytics
+### Project Objectives
+1. P&L Reports by Fiscal Year
+2. P&L Reports by Months
+3. P&L Reports by Markets
 
-Role of reports: Determine optimal customer discounts,Facilitate negotiations with consumers,Identify opportunities for business expansion in high-potential regions.
-Finance Report :
-Project objective:
+### Purpose
+- Evaluate financial performance metrics
+- Support strategic decision-making processes
+- Facilitate stakeholder communication
+- Enable market-wise performance tracking
 
-1. Create Profit and Loss (P&L) reports by Fiscal Year & Months
+### Business Impact
+- Benchmark performance against industry standards
+- Establish foundation for budgeting and forecasting
+- Align financial planning with strategic objectives
+- Strengthen stakeholder confidence through transparent reporting
 
-2. Create Profit and Loss (P&L) reports by Markets
+## Technical Skills Demonstrated
+- ETL Methodology Implementation
+- Power Query for Data Transformation
+- Date Table Generation
+- Fiscal Calendar Implementation
+- Data Model Relationship Building
+- Power Pivot Utilization
+- DAX for Custom Calculations
+- Advanced Excel Functions
 
-Purpose of finance analytics: Evaluate financial performance, Support data-driven decision-making, Facilitate clear communication with stakeholders.
+## Soft Skills Developed
+- Business Domain Understanding (Sales & Finance)
+- User-Centric Report Design
+- Strategic Problem-Solving
+- Report Generation Optimization
+- Systematic Report Building Approach
+- Stakeholder Communication
 
-Importance of analyzing Finance data: Benchmark against industry peers and historical performance, Provide a foundation for budgeting and forecasting.
+## Tools Used
+- Microsoft Excel
+- Power Query
+- Power Pivot
+- DAX (Data Analysis Expressions)
 
-Role of reports: Align financial planning with strategic goals, Build confidence in the organization’s financial health and outlook.
-
-Technical & Soft Skills:
-[1] Proficiency in ETL methodology (Extract, Transform, Load).
-[2] Creating date tables using Power Query.
-[3] Deriving fiscal months and quarters.
-[4] Establishing data model relationships with Power Pivot.
-[5] Incorporating additional data into existing data models.
-[6] Utilizing DAX to create calculated columns.
-Soft Skills:
-[1] Deep understanding of Sales & Finance Reports.
-[2] Designing user-centric reports with empathy.
-[3] Optimizing report generation through fine-tuning.
-[4] Developing a structured approach to report-building.
+## Learning Outcomes
+- Enhanced understanding of sales & finance analytics
+- Proficiency in advanced Excel functionalities
+- Development of business intelligence skills
+- Experience in end-to-end report building
+- Understanding of data modeling best practices
